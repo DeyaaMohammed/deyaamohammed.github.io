@@ -26,9 +26,9 @@ _**Manual Testing • Test Case writing • Bug reporting • SQL • Java • C
 ## Achievements
 
 <img src="https://testautomationu.applitools.com/phoenix.svg" alt="Test Automation University Phoenix Rank" style="height: 60px; width:60px;"/>
-<b>Phoenix Rank - Test Automation University</b></br>
+<b>Phoenix Rank - Test Automation University</b><br>
 <img src=".\Resources\java.png" alt="HackerRank - Java Gold" style="height: 60px; width:60px;"/>
-<b>Java Gold - HackerRank</b></br>
+<b>Java Gold - HackerRank</b><br>
 
 
 ## Projects

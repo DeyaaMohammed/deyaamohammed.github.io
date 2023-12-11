@@ -34,10 +34,14 @@ _**Manual Testing • Test Case writing • Bug reporting • SQL • Java • C
 
 ## Projects
 
-I've had the opportunity to work on a variety of testing projects throughout my learning journey, from manual to automation testing, as well as several guided projects and not to mention my ITI graduation project. All of these projects have helped me to develop my skills and knowledge in testing, and I'm excited to share them with you.\
+I've had the opportunity to work on a variety of testing projects throughout my learning journey, from manual to automation testing, as well as several guided projects and not to mention my ITI graduation project. All of these projects have helped me to develop my skills and knowledge in testing, and I'm excited to share them with you.
+
+
 To learn more about my testing projects, please visit my projects page [here](https://deyaamohammed.github.io/projects). You'll find detailed descriptions of each project and links to the repositories.
 <br><br>
 
 ## Learning Journey
-I've always been passionate about learning new things. Over the years, I've completed several courses and specializations in manual and automation testing, project management, databases, programming languages (C++ and Java), data structures and algorithms, and more.\
+I've always been passionate about learning new things. Over the years, I've completed several courses and specializations in manual and automation testing, project management, databases, programming languages (C++ and Java), data structures and algorithms, and more.
+
+
 As my learning journey has been a long one, I've created a separate page containing all the information about it. You can find my learning journey [here](https://deyaamohammed.github.io/learningjourney).

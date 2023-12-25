@@ -12,7 +12,7 @@ If you're looking for someone who is not only deeply passionate about quality as
 
 ## Certification
 <img src=".\Resources\istqb.png" alt="ISTQB" style="height: 20px;"/>**ISTQB - Certified Tester Foundation Level (CTFL)** | Egyptian Software Testing Board (_August 2023_)\
-**Certification ID:** 230725067 | [Verify](http://scr.istqb.org/?name=&number=230725067&orderBy=relevancy&orderDirection=&dateStart=&dateEnd=&expiryStart=&expiryEnd=&certificationBody=&examProvider=&certificationLevel=&country=)
+**Certification ID:** 230725067 | <a href="http://scr.istqb.org/?name=&number=230725067&orderBy=relevancy&orderDirection=&dateStart=&dateEnd=&expiryStart=&expiryEnd=&certificationBody=&examProvider=&certificationLevel=&country=" target="_blank">Verify</a>
 <br><br>
 
 ## Internships

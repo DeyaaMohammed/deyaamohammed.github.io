@@ -1,5 +1,5 @@
 <h2 id = "top" align = center>
-  <font color="#464646"><ins>Home</ins></font> | <a href="sammkml.github.io/projects">Projects</a> | <a href="sammkml.github.io/learningjourney">Learning Journey</a>
+  <font color="#464646"><ins>Home</ins></font> | <a href="deyaamohammed.github.io/projects">Projects</a> | <a href="deyaamohammed.github.io/learningjourney">Learning Journey</a>
 </h2><hr width="100%" size="2">
 
 # Software Tester

@@ -12,7 +12,11 @@ If you're looking for someone who is not only deeply passionate about quality as
 
 ## Certification
 <img src=".\Resources\istqb.png" alt="ISTQB" style="height: 20px;"/>**ISTQB - Certified Tester Foundation Level (CTFL)** | Egyptian Software Testing Board (_August 2023_)\
-**Certification ID:** 230725067 | <a href="http://scr.istqb.org/?name=&number=230725067&orderBy=relevancy&orderDirection=&dateStart=&dateEnd=&expiryStart=&expiryEnd=&certificationBody=&examProvider=&certificationLevel=&country=" target="_blank">Verify</a>
+**Certification ID:** 230725067 | <a href="http://scr.istqb.org/?name=&number=230725067&orderBy=relevancy&orderDirection=&dateStart=&dateEnd=&expiryStart=&expiryEnd=&certificationBody=&examProvider=&certificationLevel=&country=" target="_blank">Verify</a><br>
+<img src=".\Resources\hackerrank2.png" alt="HackerRank" style="height: 20px;"/> **HackerRank Java** | HackerRank (_January 2024_)\
+**Certification ID:** CBF4FD81BBB1 | <a href="https://www.hackerrank.com/certificates/cbf4fd81bbb1" target="_blank">Verify</a><br>
+<img src=".\Resources\hackerrank2.png" alt="HackerRank" style="height: 20px;"/> **HackerRank SQL (Intermediate)** | HackerRank (_January 2024_)\
+**Certification ID:** 4BDD9D83FB2C | <a href="https://www.hackerrank.com/certificates/4bdd9d83fb2c" target="_blank">Verify</a>
 <br><br>
 
 ## Internships
@@ -27,13 +31,14 @@ _Operating System • Network • Software Engineering • OOP in C++ • Java �
 <br><br>
 
 ## Technical skills
-_**Manual Testing • Test Case writing • Bug reporting • SQL • Java • C++ • Git • JMeter • Postman • REST Assured • TestNG • JUnit5 • TDD • Microsoft SQL Server • Trello • Jira • Gamification**_
+_**Manual Testing • Reviewing Requirements • Test Case writing • Bug reporting • Test Automation • SQL • Java • C++ • Python • HTML • CSS • Git • JMeter • Postman • REST Assured • TestNG • JUnit5 • TDD • Microsoft SQL Server • Jenkins • Trello • Jira • TDD • Agile methodology • Scrum • Kanban • Gamification**_
 <br><br>
 
 ## Achievements
 
-<img src="https://testautomationu.applitools.com/phoenix.svg" alt="Test Automation University Phoenix Rank" style="height: 60px; width:60px;"/><b>Phoenix Rank - Test Automation University</b><br>
-<img src=".\Resources\java.png" alt="HackerRank - Java Gold" style="height: 60px; width:60px;"/><b>Java Gold - HackerRank</b><br>
+<img src="https://testautomationu.applitools.com/phoenix.svg" alt="Test Automation University Phoenix Rank" style="width:60px;"/><b>Phoenix Rank - Test Automation University</b><br>
+<img src=".\Resources\java.png" alt="HackerRank - Java Gold" style="width:60px;"/><b>Java Gold - HackerRank</b><br>
+<img src=".\Resources\sql.png" alt="HackerRank - SQL Gold" style="width:60px;"/><b>SQL Gold - HackerRank</b><br>
 <br>
 
 ## Projects

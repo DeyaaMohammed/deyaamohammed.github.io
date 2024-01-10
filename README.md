@@ -36,8 +36,8 @@ _**Manual Testing • Reviewing Requirements • Test Case writing • Bug repor
 
 ## Achievements
 
-<img src="https://testautomationu.applitools.com/phoenix.svg" alt="Test Automation University Phoenix Rank" style="width:60px;"/><b>Phoenix Rank - Test Automation University</b><br>
-<img src=".\Resources\java.png" alt="HackerRank - Java Gold" style="width:60px;"/><b>Java Gold - HackerRank</b><br>
+<img src="https://testautomationu.applitools.com/phoenix.svg" alt="Test Automation University Phoenix Rank" style="width:60px;"/><b>Phoenix Rank - Test Automation University</b><br><br>
+<img src=".\Resources\java.png" alt="HackerRank - Java Gold" style="width:60px;"/><b>Java Gold - HackerRank</b><br><br>
 <img src=".\Resources\sql.png" alt="HackerRank - SQL Gold" style="width:60px;"/><b>SQL Gold - HackerRank</b><br>
 <br>
 

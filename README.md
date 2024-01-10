@@ -38,13 +38,13 @@ _**Manual Testing • Reviewing Requirements • Test Case writing • Bug repor
 
 <div>
     <img src="https://testautomationu.applitools.com/phoenix.svg" alt="Test Automation University Phoenix Rank" style="vertical-align: middle;" width = "60px"/><span style="vertical-align: middle;"><b>&ensp; Phoenix Rank - Test Automation University</b></span>
-</div><br>
+</div>
 <div>
-    <img src=".\Resources\java.png" alt="HackerRank - Java Gold" style="vertical-align: middle;" width = "60px"/><span style="vertical-align: middle;"><b>&ensp; Java Gold - HackerRank</b></span>
-</div><br>
+    <img src=".\Resources\java.png" alt="HackerRank - Java Gold" style="vertical-align: middle;" width = "60px"/><span style="vertical-align: middle;"><b>&ensp; Java Gold - HackerRank</b></span><br>
+</div>
 <div>
 <img src=".\Resources\sql.png" alt="HackerRank - SQL Gold" style="vertical-align: middle;" width = "60px"/><span style="vertical-align: middle;"><b>&ensp; SQL Gold - HackerRank</b></span>
-</div><br>
+</div>
 <br>
 
 ## Projects

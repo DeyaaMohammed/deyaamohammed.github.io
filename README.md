@@ -26,8 +26,11 @@ _Operating System • Network • Software Engineering • OOP in C++ • Java �
 <br><br>
 
 ## Education
-**Bachelor’s Degree in Computer Science** - **Al-Shorouk Academy - Cairo, Egypt** (_June 2019_) - _Grade: D_ \
+**Bachelor’s Degree in Computer Science** - **Al-Shorouk Academy - Cairo, Egypt** (_June 2019_) - _Grade: Fair_ \
 **Graduation Project:** Ocean Platform - _Grade: A+_
+- Designed & implemented a fully customized Gamification System for Ocean, a website rating platform (web & mobile app), boosting user engagement & website evaluation.
+- Additionally, performed data collection & filtering to improve website categorization & profanity filtering.
+
 <br><br>
 
 ## Technical skills
@@ -37,13 +40,16 @@ _**Manual Testing • Reviewing Requirements • Test Case writing • Bug repor
 ## Achievements
 
 <div>
-    <img src="https://testautomationu.applitools.com/phoenix.svg" alt="Test Automation University Phoenix Rank" style="vertical-align: middle;" width = "60px"/><span style="vertical-align: middle;"><b>&ensp; Phoenix Rank - Test Automation University</b></span>
+    <img src="https://testautomationu.applitools.com/dragon.svg" alt="Test Automation University Dragon Rank" style="vertical-align: middle;" width = "60px"/><span style="vertical-align: middle;"><b>&ensp; Dragon Rank - Test Automation University</b></span>
 </div>
 <div>
     <img src=".\Resources\java.png" alt="HackerRank - Java Gold" style="vertical-align: middle;" width = "60px"/><span style="vertical-align: middle;"><b>&ensp; Java Gold - HackerRank</b></span><br>
 </div>
 <div>
 <img src=".\Resources\sql.png" alt="HackerRank - SQL Gold" style="vertical-align: middle;" width = "60px"/><span style="vertical-align: middle;"><b>&ensp; SQL Gold - HackerRank</b></span>
+</div>
+<div>
+<img src=".\Resources\cpp.png" alt="HackerRank - C++ Gold" style="vertical-align: middle;" width = "60px"/><span style="vertical-align: middle;"><b>&ensp; C++ Gold - HackerRank</b></span>
 </div>
 <br>
 
